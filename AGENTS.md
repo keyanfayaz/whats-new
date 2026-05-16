@@ -1,16 +1,3 @@
-<!-- PRE-BOOTSTRAP:START -->
-## ⚠️ This project is not yet initialized
-
-If you are reading this section, `BOOTSTRAP.md` still exists in the repo root, which means setup has not been run.
-
-**Do not perform any other work on this repo until bootstrap is complete.** That includes: no research runs, no edits to `config/` (which is empty), no commits. Bootstrap configures the entire framework based on a short interview with the user.
-
-Tell the user, in one short sentence, that they should run `/start` to initialize the project. Then stop.
-
-(This block is removed automatically at the end of bootstrap. Once it's gone, the steady-state contract below is the only thing future runs will see.)
-
-<!-- PRE-BOOTSTRAP:END -->
-
 # AGENTS.md
 
 This repo is a single-topic "What's new" reporter. The user runs `/daily`, `/weekly`, or `/monthly`; you produce a fresh, concise update against the config in this repo.
