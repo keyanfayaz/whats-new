@@ -18,5 +18,8 @@ hype, just what changed and why it matters.
   business event (acquisition, major funding round, leadership change).
 - No unsourced rumors — every item needs at least one credible link.
 - Skip minor incremental version bumps with no user-facing impact.
+- Headlines already in `updates/_ledger.md`, unless there is a concrete new
+  development today (in which case use the same slug and prefix the daily
+  bullet with `Update —`).
 
 ## Suggested updates (pending review)
